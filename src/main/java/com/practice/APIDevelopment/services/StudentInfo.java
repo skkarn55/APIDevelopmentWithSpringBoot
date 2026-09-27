@@ -7,4 +7,5 @@ import java.util.List;
 public interface StudentInfo {
     List<StudentBin> getAllStudents();
     StudentBin getStudent(int sRollNo);
+    StudentBin addStudent(StudentBin studentBin);
 }
