@@ -18,5 +18,4 @@ public class StudentBin {
     private int studRollNo;
     private int studAge;
     private String studName;
-
 }
